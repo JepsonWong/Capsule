@@ -16,6 +16,8 @@ PrimaryCap：没有动态路由算法，将输入（None, width, height, channel
 
 CapsuleLayer：执行动态路由算法，将输入（None, input\_num\_capsule, input\_dim\_capsule）转换为输出（None, num\_capsule, dim\_capsule）。
 
+https://github.com/bojone/Capsule
+
 ## CapsNet-Tensorflow
 
 https://github.com/naturomics/CapsNet-Tensorflow
